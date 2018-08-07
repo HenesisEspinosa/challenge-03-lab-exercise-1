@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03-lab-exercise-1</string>
+    <string name="enter_message">Enter a message</string>
+    <string name="enter_button">DELETE</string>
+</resources>
